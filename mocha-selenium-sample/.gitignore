@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+telegram_local.json
+.env
